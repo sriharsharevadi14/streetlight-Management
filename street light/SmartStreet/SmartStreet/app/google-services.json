@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "1030532823661",
+    "firebase_url": "https://iot-999.firebaseio.com",
+    "project_id": "iot-999",
+    "storage_bucket": "iot-999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030532823661:android:3d0a87c2f989ac4d54dd64",
+        "android_client_info": {
+          "package_name": "com.example.falldetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030532823661-1s12f4oqe1svh0b621agm2eo377nbrpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.falldetection",
+            "certificate_hash": "1ec6d3e448f025ab28f14eaf51396363d5a48027"
+          }
+        },
+        {
+          "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2LsnIBkr7U44QX0rUx3b52oJqgF-2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030532823661:android:570faa94ed27615d54dd64",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030532823661-jra9kuum0fs4r8a71hfi4b53ra02mmf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "1ec6d3e448f025ab28f14eaf51396363d5a48027"
+          }
+        },
+        {
+          "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2LsnIBkr7U44QX0rUx3b52oJqgF-2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030532823661:android:6c77be7ba2fcef8f54dd64",
+        "android_client_info": {
+          "package_name": "com.example.smartparkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030532823661-ti03qm1o0us4pl55m9i6lpklrvbe6lum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartparkingsystem",
+            "certificate_hash": "1ec6d3e448f025ab28f14eaf51396363d5a48027"
+          }
+        },
+        {
+          "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2LsnIBkr7U44QX0rUx3b52oJqgF-2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030532823661:android:846bd256ec8f83bd54dd64",
+        "android_client_info": {
+          "package_name": "com.example.smartstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030532823661-5b0mb1p4qt6pd3j1sob18fm4hepbl8ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartstreet",
+            "certificate_hash": "1ec6d3e448f025ab28f14eaf51396363d5a48027"
+          }
+        },
+        {
+          "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2LsnIBkr7U44QX0rUx3b52oJqgF-2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030532823661:android:0cbe0da72651b65054dd64",
+        "android_client_info": {
+          "package_name": "com.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030532823661-v4aorjimfpm4iu658tfj02nljtfjs8q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartparking",
+            "certificate_hash": "1ec6d3e448f025ab28f14eaf51396363d5a48027"
+          }
+        },
+        {
+          "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2LsnIBkr7U44QX0rUx3b52oJqgF-2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030532823661-f72vibnmfkkanggcpoo1tsa9a174kgoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
